@@ -1,0 +1,10 @@
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\keili\Downloads\proyecto\Heladeria-main\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
